@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748814132489",
+    "project_id": "furnitureshop-19595",
+    "storage_bucket": "furnitureshop-19595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748814132489:android:f2db3ef5cf2271d3645fd8",
+        "android_client_info": {
+          "package_name": "com.deepcode.furniture_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyOLkWyXkFycHYPx7WUeS5WpvJMxkVzk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
